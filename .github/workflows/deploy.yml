@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 env:
-  AWS_REGION: ap-south-1
+  AWS_REGION: eu-north-1
   ECR_REPOSITORY: cloud-portfolio-app
   ECS_CLUSTER: cloud-portfolio-cluster
   ECS_SERVICE: cloud-portfolio-service
